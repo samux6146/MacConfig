@@ -1,0 +1,1 @@
+My macos Shell and Terminal config
